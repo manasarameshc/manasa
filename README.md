@@ -1,2 +1,3 @@
 # manasa
-manasa ramesh c in github
+myself manasa ramesh c is a 2nd year btech student of cs department
+
